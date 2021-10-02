@@ -1,0 +1,6 @@
+node_modules
+.env
+example.png
+.git
+.yarn.lock
+yarn-error.log
